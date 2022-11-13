@@ -16,3 +16,6 @@ Case study questions:
 10.	What is the top selling product for each segment?
 11.	What are the total quantity, revenue and discount for each category?
 12.	What is the top selling product for each category?
+
+
+![Capture](https://user-images.githubusercontent.com/111060707/201515197-4214c960-14ed-4df5-93cc-7060f71345c7.JPG)
