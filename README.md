@@ -1,6 +1,6 @@
 # SQL-Project-Clothing-Company
 
-To assist the team’s merchandising teams analyze their sales performance and generate a basic financial report to share with the wider business:
+This SQL case study is meant to support the merchandising teams in evaluating their sales performance and creating a simple financial report for wider business dissemination.
 
 Case study questions:
 
